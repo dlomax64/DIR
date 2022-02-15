@@ -1,0 +1,10 @@
+USERNAME:
+
+    Hello, we are computer science students doing a data analysis project for our Digital Archeology class at the University of Tennessee. We're collecting data
+    regarding the first language developers learn. We detected the language(s): LANGUAGES as the primary language(s) in the first commit that you made to a public repo. 
+    We are trying to determine the reliability of using first commits to identify an authors first language and would appreciate if you would help us in our research! 
+    Please respond with yes or no whether any of the language(s) listed reflect the first language that you learned.
+    We appreciate your participation in our research project!
+    (Or just reading :-)) 
+
+Regards
